@@ -1,0 +1,17 @@
+Repo link to see and run the code virtually-
+https://github.com/sarthakgoel31/SE_MTE_Project_MC102_MC104.git
+
+
+The Report PDF (SE_MTE_report_MC102_MC104) -
+The pdf explains what we have done in the project with complete background story of Deep Neural Networks and Dropout.
+It also has code (in text format) and output (in snapshot format) to help you understand our work. 
+We have also added our Methodology in the report.
+
+
+The Code (.py) file (dropout.py)-
+It contains our code in Python format which can easily be run in any Python Emulator for your reference.
+
+
+Hope you like our project
+Regards
+Sarthak and Sarthi. 
